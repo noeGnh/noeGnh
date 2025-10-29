@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=8640&pause=1000&width=800&height=60&separator=%3C&lines=throw+new+RiemannError(%E2%80%9CZero+not+found+on+the+critical+line%E2%80%9D);)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=8640&pause=1000&width=600&height=60&lines=A+non-trivial+zero%2C+lost+beyond+the+critical+line.)](https://git.io/typing-svg)
