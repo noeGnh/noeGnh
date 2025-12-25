@@ -10,10 +10,4 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=noeGnh&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=79c0ff&currStreakLabel=c9d1d9)](https://git.io/streak-stats)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=noeGnh&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=79c0ff&point=c9d1d9&area=true&area_color=58a6ff)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-![](https://komarev.com/ghpvc/?username=noeGnh&color=58a6ff&style=flat-square&label=Profile+Views)
-
 </div>
