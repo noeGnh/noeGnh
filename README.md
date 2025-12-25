@@ -1,3 +1,1 @@
-```javascript
-while(alive) { eat(); code(); sleep(); repeat(); }
-```
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=8640&pause=1000&width=600&height=60&lines=A+non-trivial+zero%2C+lost+beyond+the+critical+line.)](https://git.io/typing-svg)
