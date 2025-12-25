@@ -8,6 +8,8 @@
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats-rosy-tau.vercel.app?user=noeGnh&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=79c0ff&currStreakLabel=c9d1d9)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats-fast-chi.vercel.app/api?username=noeGnh&show_icons=true&theme=github_dark&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats-fast-chi.vercel.app/api/streak?username=noeGnh&theme=github_dark&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats-fast-chi.vercel.app/api/top-langs/?username=noeGnh&layout=compact&theme=github_dark&include_all_commits=true)
 
 </div>
