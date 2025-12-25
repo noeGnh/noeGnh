@@ -8,6 +8,6 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=noeGnh&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=79c0ff&currStreakLabel=c9d1d9)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-rosy-tau.vercel.app?user=noeGnh&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=79c0ff&currStreakLabel=c9d1d9)](https://git.io/streak-stats)
 
 </div>
