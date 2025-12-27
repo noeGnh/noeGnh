@@ -8,8 +8,12 @@
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats-fast-chi.vercel.app/api?username=noeGnh&show_icons=true&theme=transparent&include_all_commits=true&hide_border=true&rank_icon=github&custom_title=Github%20Stats)
-![GitHub Stats](https://github-readme-stats-fast-chi.vercel.app/api/top-langs/?username=noeGnh&layout=compact&theme=transparent&include_all_commits=true&hide_border=true)
-![GitHub Stats](https://github-readme-stats-fast-chi.vercel.app/api/streak?username=noeGnh&theme=transparent&include_all_commits=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats-fast-chi.vercel.app/api?username=noeGnh&show_icons=true&theme=github_dark&include_all_commits=true&hide_border=true&rank_icon=github&custom_title=Github%20Stats#gh-dark-mode-only)
+![GitHub Stats](https://github-readme-stats-fast-chi.vercel.app/api/top-langs/?username=noeGnh&layout=compact&theme=github_dark&include_all_commits=true&hide_border=true#gh-dark-mode-only)
+![GitHub Stats](https://github-readme-stats-fast-chi.vercel.app/api/streak?username=noeGnh&theme=github_dark&include_all_commits=true&hide_border=true#gh-dark-mode-only)
+
+![GitHub Stats](https://github-readme-stats-fast-chi.vercel.app/api?username=noeGnh&show_icons=true&theme=default&include_all_commits=true&hide_border=true&rank_icon=github&custom_title=Github%20Stats#gh-light-mode-only)
+![GitHub Stats](https://github-readme-stats-fast-chi.vercel.app/api/top-langs/?username=noeGnh&layout=compact&theme=default&include_all_commits=true&hide_border=true#gh-light-mode-only)
+![GitHub Stats](https://github-readme-stats-fast-chi.vercel.app/api/streak?username=noeGnh&theme=default&include_all_commits=true&hide_border=true#gh-light-mode-only)
 
 </div>
