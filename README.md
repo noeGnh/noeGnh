@@ -9,11 +9,11 @@
 <div align="center">
   
 [![GitHub Stats](https://github-readme-stats-fast-chi.vercel.app/api?username=noeGnh&show_icons=true&theme=github_dark&include_all_commits=true&hide_border=true&rank_icon=github&custom_title=Github%20Stats#gh-dark-mode-only)](https://github.com/noeGnh/github-readme-stats#gh-dark-mode-only)
-[![GitHub Stats](https://github-readme-stats-fast-chi.vercel.app/api/top-langs/?username=noeGnh&layout=compact&theme=github_dark&include_all_commits=true&hide_border=true#gh-dark-mode-only)](https://github.com/noeGnh/github-readme-stats#gh-dark-mode-only)
+[![GitHub Stats](https://github-readme-stats-fast-chi.vercel.app/api/top-langs/?username=noeGnh&layout=compact&theme=github_dark&include_all_commits=true&hide_border=true&langs_count=8#gh-dark-mode-only)](https://github.com/noeGnh/github-readme-stats#gh-dark-mode-only)
 [![GitHub Stats](https://github-readme-stats-fast-chi.vercel.app/api/streak?username=noeGnh&theme=github_dark&include_all_commits=true&hide_border=true#gh-dark-mode-only)](https://github.com/noeGnh/github-readme-stats#gh-dark-mode-only)
 
 [![GitHub Stats](https://github-readme-stats-fast-chi.vercel.app/api?username=noeGnh&show_icons=true&theme=default&include_all_commits=true&hide_border=true&rank_icon=github&custom_title=Github%20Stats#gh-light-mode-only)](https://github.com/noeGnh/github-readme-stats#gh-light-mode-only)
-[![GitHub Stats](https://github-readme-stats-fast-chi.vercel.app/api/top-langs/?username=noeGnh&layout=compact&theme=default&include_all_commits=true&hide_border=true#gh-light-mode-only)](https://github.com/noeGnh/github-readme-stats#gh-light-mode-only)
+[![GitHub Stats](https://github-readme-stats-fast-chi.vercel.app/api/top-langs/?username=noeGnh&layout=compact&theme=default&include_all_commits=true&hide_border=true&langs_count=8#gh-light-mode-only)](https://github.com/noeGnh/github-readme-stats#gh-light-mode-only)
 [![GitHub Stats](https://github-readme-stats-fast-chi.vercel.app/api/streak?username=noeGnh&theme=default&include_all_commits=true&hide_border=true#gh-light-mode-only)](https://github.com/noeGnh/github-readme-stats#gh-light-mode-only)
 
 </div>
